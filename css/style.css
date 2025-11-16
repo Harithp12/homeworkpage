@@ -1,0 +1,133 @@
+
+    body {
+      font-family: Tahoma, sans-serif;
+      text-align: center;
+      background-color: #f4f4f4;
+    }
+
+    table {
+      width: 90%;
+      margin: 20px auto;
+      border-collapse: collapse;
+      background-color: white;
+    }
+
+    td {
+      border: 1px solid #ccc;
+      padding: 10px;
+      vertical-align: middle;
+    }
+
+    /* الصورة الكبيرة في الأعلى */
+    .header-img img {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+    }
+
+    /* الصور المتوسطة */
+    .mid-img img {
+      width: 100%;
+      height: 120px;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+
+    /* الروابط */
+    .links a {
+      display: block;
+      margin: 15px 0;
+      color: #0078d7;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .links a:hover {
+      text-decoration: underline;
+    }
+
+    /* الأيقونات في الأسفل */
+    .social-icons img {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      margin: 10px;
+      cursor: pointer;
+    }
+
+    .social-icons img:hover {
+      opacity: 0.8;
+    }
+
+    footer {
+      background-color: #0078d7;
+      font-size: 40px;
+      color: white;
+      padding: 10px;
+      text-align: center;
+    }
+    /*تنسيق صفحة حول الجامعة<*/
+    
+    body {
+      font-family: "Tajawal", sans-serif;
+      background-color: #f9f9f9;
+      text-align: center;
+      margin: 0;
+    }
+
+    header {
+      background-color: #004080;
+      color: white;
+      padding: 15px;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      color: yellow;
+    }
+
+    section {
+      margin-top: 40px;
+      font-size: 18px;
+    }
+  /* تنسيق صفحة التواصل*/
+  
+    body {
+      font-family: "Tajawal", sans-serif;
+      background-color: #eef1f5;
+      text-align: center;
+      margin: 0;
+    }
+
+    header {
+      background-color: #004080;
+      color: white;
+      padding: 15px;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      color: yellow;
+    }
+
+    section {
+      margin-top: 40px;
+      font-size: 18px;
+    }
+  
+
+
+
+  
